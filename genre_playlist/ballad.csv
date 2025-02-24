@@ -1,0 +1,51 @@
+prefer,track_id,artist,title,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,genre
+4,2pSTlAho8T5oJ3GjrOvfZn,BOL4,We loved,0.635,0.473,3,-3.919,1,0.0393,0.772,0,0.0933,0.4,85.101,194627,4,k-pop
+4,3gug38ZhXQWJbwN7sh0YRR,San E,A midsummer night's sweetness,0.781,0.737,8,-3.915,1,0.227,0.57,0,0.31,0.778,85.973,233456,4,"k-pop, k-rap"
+4,3BlFzuu8yqE4bMrHKTViee,Roy Kim,Let's Stay Well (My love X Roy Kim),0.362,0.364,11,-7.521,1,0.0368,0.665,0,0.118,0.296,75.663,258147,4,korean pop
+4,20s4CVeJ9VgW2jdNLKr1EL,Choi Yu Ree,"잘 지내자, 우리",0.46,0.459,7,-6.393,1,0.0367,0.378,1.77e-05,0.16,0.159,143.952,256027,4,korean singer-songwriter
+4,6guNyPMkOtVKW5upLj60VM,CHEEZE,Love You (Bye),0.389,0.298,0,-6.78,1,0.0433,0.842,0,0.0779,0.408,83.474,219551,4,"k-pop, korean pop"
+4,1m6hChgffW1gqFKbpkGQrk,Younha,Dark Cloud,0.301,0.727,7,-3.753,1,0.0368,0.135,3.39e-06,0.27,0.206,141.406,240467,4,korean pop
+4,6xqnXJbPNzsB4nvA2GdNy8,JOY,이별을 배웠어 Always In My Heart,0.611,0.766,9,-3.4,1,0.0371,0.716,0,0.143,0.558,88.987,203628,4,k-pop
+4,5SQPTxNUunDOhBMOggDmX7,Supreme Team,Then Then Then,0.808,0.862,0,-4.473,0,0.0933,0.422,0,0.349,0.775,120.015,263079,4,"k-rap, korean old school hip hop"
+4,4LpsAtaXdx8EqmChHdKSQy,DAY6,아픈 길,0.623,0.385,2,-4.829,1,0.0273,0.565,0,0.0824,0.291,143.809,249819,4,"k-pop, k-pop boy group"
+4,7jPev7m1RQ6gUMYIfGobAl,SEVENTEEN,Hug,0.473,0.242,4,-9.364,1,0.0436,0.905,0,0.109,0.368,134.919,159110,4,"k-pop, k-pop boy group"
+4,4KU23Zay3Q1W0c0yJCNczH,JANNABI,Baby I Need You,0.613,0.642,2,-6.052,0,0.034,0.14,0,0.11,0.692,176.176,201653,4,korean indie rock
+4,3XvpMrRSAMDeVLZOqCrDuU,Paul Kim,Rain,0.388,0.546,8,-6.3,1,0.0528,0.899,3.9e-06,0.118,0.167,129.827,237218,4,korean pop
+4,0M3490Cgf7tkpk2m11CDi2,Hoppipolla,Your Ocean,0.472,0.57,3,-4.395,1,0.0339,0.601,1.46e-06,0.333,0.184,127.251,286240,4,
+4,0hqngwyh8WnPuYlLYHRQqp,Kim MinSeok,DrunKen Confession,0.562,0.454,11,-6.858,1,0.0322,0.584,0,0.142,0.264,121.797,227960,4,"k-pop ballad, korean pop"
+4,6vt4R4q5YL4M2cxl7o6pTe,Roy Kim,When Spring Comes,0.349,0.431,8,-8.388,1,0.043,0.684,0,0.365,0.292,136.523,238400,4,korean pop
+4,02JNmvKYgHAuvOpzHLeSmV,Lee Mujin,Fall in Fall,0.683,0.5,8,-5.386,1,0.0243,0.702,0,0.101,0.466,93.026,218440,4,
+4,3KhDf9MJlPpodahS4OwrMF,Younha,On A Rainy Day,0.394,0.431,10,-6.869,1,0.0461,0.819,0,0.134,0.23,132.182,212372,4,korean pop
+4,2zlgwqw8BLX2JGB76LIFeF,BTOB,Missing You,0.633,0.736,7,-5.775,1,0.131,0.65,0,0.128,0.477,168.05,236829,4,"k-pop, k-pop boy group"
+4,3LpAsXjqTQ5FUyptb2lujH,Kassy,The day was beautiful,0.615,0.447,7,-5.522,1,0.0398,0.695,0,0.122,0.316,133.742,235392,4,"k-pop, korean pop"
+4,0VdwOoAKPe9aGahkpllfkH,BUMJIN,A Letter,0.469,0.436,0,-7.256,1,0.0273,0.39,2.55e-05,0.274,0.178,145.937,215760,4,k-pop ballad
+4,4jGl8gXMblBU8PUdJErSAN,INFINITE,Why Me,0.312,0.614,5,-4.461,1,0.035,0.303,0,0.104,0.173,141.913,314216,4,"k-pop, k-pop boy group"
+4,72UARrP1LDMUMuZ7tRAxku,Lim Changjung,내가 저지른 사랑,0.537,0.58,7,-2.961,1,0.0306,0.473,0,0.179,0.255,127.87,238252,4,korean pop
+4,3QQyaBhRNcDmqpWRssT7dh,Park Hyo Shin,Goodbye,0.326,0.412,7,-7.649,1,0.0329,0.707,0,0.306,0.263,128.654,288253,4,korean pop
+4,0SOnbGVEf5q0YqL0FO2qu0,Huh Gak,Hello,0.397,0.561,6,-4.148,1,0.0455,0.744,0,0.0866,0.239,132.165,251611,4,korean pop
+4,5mYXkJTAk2EvWpEzkwcktd,Lim Jae Hyun,Drunken Confession At Night,0.459,0.443,4,-7.051,1,0.0335,0.704,2.18e-06,0.118,0.152,135.593,246492,4,"k-pop ballad, korean pop"
+4,3HAkoNmThZhyFejhpRXXYI,DAY6,예뻤어,0.46,0.615,5,-3.472,0,0.0331,0.0633,0,0.109,0.414,167.927,283160,4,"k-pop, k-pop boy group"
+4,3ImDzyDVlxu6qjxT49vlX0,Lee Mujin,Episode,0.734,0.71,2,-4.476,1,0.0355,0.234,0,0.382,0.59,118.052,205213,4,
+4,6uYBDTTolezL3ne2HsXDm0,Kwon Jin Ah,Consolation,0.494,0.173,7,-10.342,1,0.0349,0.966,3.85e-06,0.0993,0.227,63.233,196999,4,"k-indie, korean pop"
+4,3uFDwY5EPKxnVhfjKHhnCP,Punch,When Night Is Falling,0.512,0.576,5,-4.737,1,0.0496,0.618,0,0.131,0.503,168.994,205680,4,
+4,2jDnaEpQI6xjahWZzeVyaM,IU,My old story,0.505,0.297,3,-8.614,1,0.0368,0.741,4.23e-05,0.228,0.175,129.522,213891,4,"k-pop, pop"
+4,2zCORPZHF7g9SPjZfrGVuy,Baek Ji Young,I still love you a lot,0.548,0.404,4,-5.618,1,0.0314,0.727,0,0.0791,0.486,129.795,227867,4,korean pop
+4,2RLdkXSaiQjRbey5pvP8Kt,Lim Young Woong,If We Ever Meet Again,0.401,0.394,1,-6.655,1,0.0324,0.748,0,0.0993,0.327,129.74,274387,4,trot
+4,2bsUU2XAFjXS4NSeCvMrMG,BEN,Thank you for Goodbye,0.582,0.639,11,-4.66,0,0.0458,0.87,0,0.127,0.302,133.668,253985,3,korean pop
+4,638ZqDkW3jdwkla129O2MZ,Jang Beom June,can't sleep,0.538,0.478,3,-5.315,0,0.032,0.721,0,0.315,0.395,79.986,275376,4,"korean pop, korean singer-songwriter"
+4,3I71PFicYG614VGl6hqcUK,YB,나는 나비,0.593,0.708,11,-1.247,1,0.0382,0.0252,0,0.105,0.283,127.031,214907,4,"k-rock, korean indie rock"
+4,3HIDWyZGwSe5MhrSP890nc,Lim Jae Hyun,Rhapsody of Sadness,0.367,0.585,3,-4.125,1,0.0323,0.299,0,0.13,0.236,135.952,235120,4,"k-pop ballad, korean pop"
+4,3dvPPS5KXskeRbrSY80gwt,JEONG SEWOON,It`s you,0.38,0.417,2,-7.861,1,0.0317,0.722,0,0.0864,0.258,130.622,219506,4,"k-pop, korean ost"
+4,3zM2yi75oB3v00sZvWUzIn,BTOB,Beautiful Pain,0.409,0.743,1,-4.536,1,0.0496,0.225,0,0.276,0.441,167.864,239572,4,"k-pop, k-pop boy group"
+4,3xvuR15lzn3zu9RWJj2tvg,Kwon Jin Ah,Lonely Night,0.432,0.403,5,-6.07,1,0.0335,0.664,0,0.0976,0.206,171.567,242900,4,"k-indie, korean pop"
+4,7s3ma1B1cC7rImNDYAHNxu,Yyeon,이제 우리 꿈에서만 만나,0.617,0.591,10,-5.701,1,0.0304,0.671,2.55e-06,0.106,0.425,144.014,139947,4,
+4,1rVPj9cryjgB7MdaU6sqN3,Roy Kim,Bom Bom Bom,0.636,0.719,4,-5.986,1,0.0267,0.392,3.12e-05,0.303,0.603,94.993,208467,4,korean pop
+4,2KhNgn4w8LHxn3ybLoofh4,BAEKHYUN,너를 사랑하고 있어,0.606,0.46,4,-9.171,1,0.0402,0.853,4.09e-06,0.0933,0.131,124.117,193931,4,k-pop
+4,1K7POuN7vtBx5MCAi2W6DJ,Monday Kiz,My love has faded away,0.492,0.476,4,-4.901,1,0.0323,0.812,0,0.109,0.563,133.896,220467,4,korean pop
+4,2h7nwPmQ8FmPdCy4wE8wPb,BIG MAMA,연,0.488,0.618,11,-7.587,0,0.0427,0.385,0,0.0345,0.335,131.663,295133,4,k-pop ballad
+4,3TiVCPJrFiBzpAverOkPL1,Lee Moon Sae,소녀,0.577,0.235,5,-13.24,1,0.0325,0.718,0.000173,0.103,0.175,127.818,220053,4,"classic korean pop, korean pop"
+4,4WUpMUjdoi47LY7gBQBXe3,Lim Young Woong,Grain of Sand,0.557,0.343,4,-9.641,1,0.0362,0.664,5.89e-05,0.122,0.112,64.961,220309,4,trot
+4,5lEvC4905fBtL9GjJKionT,CHEN,Beautiful goodbye,0.561,0.257,3,-7.844,1,0.0348,0.933,0,0.169,0.337,129.84,269619,4,k-pop
+4,4SQH8x0PnOqEWWgbAlXIXJ,MeloMance,Go Back,0.456,0.548,10,-4.565,1,0.0444,0.604,0,0.524,0.35,119.544,234000,4,"k-pop, korean pop"
+4,2y4hHM6c48Qzk0bqh33XfB,IU,Winter Sleep,0.539,0.237,0,-8.452,1,0.0273,0.82,0,0.345,0.259,68.045,262120,4,"k-pop, pop"
+4,10xEWyLu80xSy17g9jptlD,Younha,Stardust,0.501,0.499,10,-5.073,1,0.0322,0.474,9.14e-06,0.143,0.218,129.665,230320,4,korean pop

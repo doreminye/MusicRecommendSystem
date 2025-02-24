@@ -1,0 +1,51 @@
+prefer,track_id,artist,title,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,genre
+3,7iabz12vAuVQYyekFIWJxD,Central Cee,BAND4BAND (feat. Lil Baby),0.882,0.764,11,-5.241,1,0.204,0.359,0,0.119,0.886,140.113,140733,4,"melodic drill, r&drill"
+3,7LOsowZi5NYCfe4fhLrVk5,Outcast Music,Loose Part 2,0.84,0.489,5,-10.12,0,0.205,0.0304,1.21e-06,0.141,0.883,144.979,149156,4,
+3,7yG364iLzExYFIaIUTbiug,Clavish,Greece,0.927,0.506,8,-8.362,1,0.263,0.367,0,0.111,0.186,132.985,160093,4,"uk drill, uk hip hop"
+3,2HALQBSAvpw1oCzL5QsrT2,Dave,Trojan Horse,0.894,0.703,7,-4.147,1,0.35,0.487,0,0.191,0.771,138.193,248867,4,uk hip hop
+3,4o2Iwvz9M7qdUUaCmfrZAQ,Mixtape Madness,Next Up - Part 1,0.887,0.501,1,-7.982,1,0.419,0.498,0,0.122,0.403,145.995,163605,4,"melodic drill, uk drill, uk hip hop"
+3,0TiSUeBM7Hg0WV3YsqsF8o,CB,Take That Risk,0.841,0.527,10,-12.261,0,0.409,0.112,0,0.087,0.444,141.977,200120,4,"uk drill, uk hip hop"
+3,5YYpWNNi2KaQBVWkQiDquf,K-Trap,Interlude,0.867,0.582,2,-6.392,1,0.254,0.408,0,0.154,0.419,141.942,136867,4,"uk drill, uk hip hop"
+3,3CVb6hkMrlF7eHhXi5B3PZ,Russ Millions,Body,0.889,0.705,11,-8.683,0,0.392,0.389,1.04e-05,0.0692,0.815,141.069,183830,4,"melodic drill, uk drill"
+3,0pWe6arB3oGxI8msYHObbA,Nemzzz,WYA,0.88,0.675,9,-7.385,0,0.376,0.395,0,0.106,0.64,148.109,136419,4,"manchester hip hop, melodic drill"
+3,4c7O0ni1VZaa7vBUbrHA6b,LD,Part 1 (So Fly),0.659,0.654,10,-7.539,0,0.411,0.0802,0,0.0661,0.769,126.016,153240,5,"uk drill, uk hip hop"
+3,2DfRgLfkNb8nU1wMcMK0fD,ARTAN,She's A 10 But...,0.929,0.366,11,-10.902,0,0.25,0.248,0,0.0871,0.888,140.044,165429,5,
+3,3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,0.911,0.573,6,-7.43,1,0.288,0.38,0,0.403,0.972,140.04,97393,4,"melodic drill, r&drill"
+3,337kcYVjYXdLBItCw9ry3b,D-Block Europe,Overseas,0.838,0.623,8,-7.524,0,0.354,0.532,0,0.307,0.811,135.935,222155,4,"melodic drill, uk hip hop"
+3,19xj9MPZsjMZBnj6c1rlIv,SL,Gentleman,0.953,0.277,1,-14.465,1,0.633,0.594,0,0.0929,0.361,119.994,189936,4,uk hip hop
+3,2VjOTvl50tscmc0RDjPdr2,Dave,UK Rap,0.922,0.674,1,-4.429,1,0.366,0.323,3.07e-06,0.128,0.726,140.065,198027,4,uk hip hop
+3,0xCsaAy2o7DFoF7PoP9qQp,Fredo,They Ain't 100,0.572,0.785,4,-7.042,1,0.41,0.116,5.65e-06,0.247,0.384,130.655,190541,4,uk hip hop
+3,0SErNy2An0gCpYFRUNWwNT,Hardy Caprio,Guten Tag,0.808,0.574,7,-8.527,1,0.334,0.309,0,0.18,0.631,141.008,166613,4,"afroswing, grime, uk hip hop"
+3,3B0WbRucJ6ZIla2G9IVt2E,Tion Wayne,I Dunno (feat. Dutchavelli & Stormzy),0.821,0.666,1,-7.237,1,0.342,0.0954,0,0.319,0.739,145.066,178138,4,"london rap, uk hip hop"
+3,5KgRqRftnxtWi8CzKfJSTX,Fumez The Engineer,Baby Mane x Fumez The Engineer - Plugged In,0.733,0.536,7,-8.846,0,0.405,0.136,0,0.131,0.419,188.078,153191,4,"melodic drill, uk drill, uk hip hop, uk melodic rap"
+3,5pEi1kn0rF1mOfp77wz2OG,Nemzzz,FYP,0.873,0.487,7,-10.032,0,0.307,0.0636,0,0.0935,0.3,155.93,161538,4,"manchester hip hop, melodic drill"
+3,7aKhDiI7F73vSI0tPbp2nn,Headie One,Daily Duppy (feat. GRM Daily),0.757,0.639,7,-9.071,1,0.0938,0.258,0,0.331,0.591,143.113,128592,4,uk hip hop
+3,5c0L8xnB6I9DS9LKaqUx3j,Sus,Caught Inda Rain,0.747,0.701,10,-9.758,0,0.484,0.035,0,0.149,0.723,142.886,188029,4,uk drill
+3,4oxGI8yyghLuMV7ybRG3kg,Central Cee,Obsessed With You,0.746,0.825,3,-4.457,1,0.0435,0.192,0,0.365,0.904,143.062,108651,4,"melodic drill, r&drill"
+3,3OqnX60rCper6wEieSGmHb,Clavish,100mph Freestyle X2,0.911,0.3,5,-11.487,0,0.423,0.839,0,0.11,0.729,129.077,210233,4,"uk drill, uk hip hop"
+3,1MN3iFMSQ8dfqNAZMyUp5h,SR,What's Good,0.853,0.591,11,-10.706,1,0.473,0.219,0,0.196,0.911,144.983,177103,4,uk drill
+3,205Og4VkGoDxTBKWb2yyko,Mixtape Madness,The Cold Room - S1-E12,0.877,0.515,9,-10.785,1,0.435,0.421,0,0.335,0.826,142.052,141964,4,"melodic drill, uk drill, uk hip hop"
+3,2kQ9udZ0v3H8PFSVmbY1Kq,D-Block Europe,Darling,0.848,0.596,2,-8.043,0,0.235,0.5,0,0.0853,0.793,150.035,143200,4,"melodic drill, uk hip hop"
+3,47lPVbZUh9547oTjx6J4ZV,Dave,Professor X,0.891,0.675,2,-6.892,1,0.152,0.111,0,0.275,0.562,127.012,217705,4,uk hip hop
+3,5S46E2UNGDYcwZ26yj6aNr,Blanco,Brilliant Mind,0.826,0.575,4,-8.494,0,0.186,0.572,6.76e-06,0.108,0.821,140.005,137143,4,"london rap, uk drill"
+3,7LBTbnMj4s3eHGvT0XaE4q,Fumez The Engineer,Booter Bee x Fumez The Engineer - Plugged In (Part 1),0.769,0.904,8,-4.246,0,0.329,0.464,0,0.172,0.903,144.095,141667,4,"melodic drill, uk drill, uk hip hop, uk melodic rap"
+3,7LwCqIMsKebFSsGX1eIqoS,Nemzzz,IT'S US (feat. Lil Yachty),0.744,0.517,10,-6.25,0,0.188,0.0577,0.000119,0.124,0.421,77.459,123871,4,"manchester hip hop, melodic drill"
+3,6PHU9Mta6YuF6jnbTR5Ooi,Abra Cadabra,You (feat. Dirtbike LB & Young Adz),0.48,0.656,1,-6.878,1,0.236,0.271,0,0.131,0.282,97.044,188267,4,"grime, uk drill, uk hip hop"
+3,0VcgLoEMA06AKqPxxj2YQs,Ed Sheeran,Bad Habits (feat. Tion Wayne & Central Cee) [Fumez The Engineer Remix],0.726,0.818,11,-6.238,0,0.319,0.229,0,0.0544,0.679,140.042,222496,4,"pop, singer-songwriter pop, uk pop"
+3,5gpyyqA9WZyWu24ESUzrkk,Central Cee,LA Leakers Freestyle,0.779,0.826,6,-5.975,0,0.24,0.0384,0,0.707,0.897,142.131,178000,4,"melodic drill, r&drill"
+3,58BJ5oUPX5ST2pjCtOSMkk,Da Beatfreakz,"Money Calling (feat. RAYE, Russ Millions & wewantwraiths)",0.651,0.674,1,-7.242,0,0.321,0.202,0,0.104,0.61,143.965,191897,4,"afroswing, uk hip hop"
+3,5ADkg291Tpx9mB0aU2cGFQ,Clavish,Traumatised,0.848,0.534,6,-6.673,0,0.302,0.0706,0,0.096,0.511,143.93,177467,4,"uk drill, uk hip hop"
+3,6Sb6bDbhCuAi27HE9koUXp,Digga D,Woi,0.858,0.584,5,-7.48,1,0.379,0.815,0,0.224,0.714,140.208,182143,4,"aussie drill, london rap, melodic drill, uk hip hop"
+3,0Qwd1ChHyn1TIBpK9dYzHn,K-Trap,Heaven or Hell,0.858,0.569,2,-8.123,1,0.3,0.816,8.84e-05,0.131,0.547,142.0,151208,4,"uk drill, uk hip hop"
+3,31gzwBma4iEppvk8um5ZGx,Fredo,Money Talks (feat. Dave),0.943,0.524,7,-6.813,0,0.178,0.0456,3.08e-06,0.0987,0.411,130.003,273667,4,uk hip hop
+3,5fgB7wylIDMSqJ8Z5s7FlJ,Blanco,The Great Escape (feat. Central Cee),0.854,0.671,8,-6.072,0,0.148,0.256,0,0.103,0.877,142.073,192676,4,"london rap, uk drill"
+3,12WNlazZIb6sGZatQ3PO9k,Pureojuice,Sukuna UK Drill (Jujutsu Kaisen) Everyone Diss,0.771,0.666,1,-6.321,1,0.313,0.137,0,0.254,0.755,140.022,152633,4,
+3,1PGc9smXkDk2I7v8zsI0GB,ArrDee,Home For My Heart,0.736,0.56,10,-8.067,1,0.0831,0.629,0,0.107,0.752,98.993,158598,4,uk hip hop
+3,7f9JtL6FK2R98q8WPO3g8F,Luke Day,Putin (Cupid),0.673,0.808,11,-4.851,0,0.288,0.18,0,0.36,0.447,143.997,143168,4,
+3,01IQ4aQgOf0Kkq3a273hmO,Dave,Funky Friday,0.975,0.535,1,-7.227,1,0.196,0.0783,0,0.107,0.671,125.066,182741,4,uk hip hop
+3,5AXNh6mEr2z8UFlqm8ftRH,Central Cee,Moi,0.731,0.704,2,-4.679,1,0.322,0.161,0,0.134,0.419,72.056,174533,4,"melodic drill, r&drill"
+3,0mrjWqYlfsMHdoYOUkGoVD,Sus,Freedoms Priceless,0.84,0.494,5,-9.96,0,0.701,0.081,0,0.2,0.505,144.024,200000,4,uk drill
+3,1QqHAKSbtUZ5a0XiVkqMKL,Loski,Daily Duppy (feat. GRM Daily),0.75,0.713,9,-4.426,1,0.294,0.132,0.000453,0.233,0.312,141.583,234891,4,"uk drill, uk hip hop"
+3,1nXEbGvVAWGRFwVRBu1YSY,Digga D,TLC,0.868,0.621,8,-8.078,1,0.22,0.188,0.000105,0.118,0.426,142.003,149938,4,"aussie drill, london rap, melodic drill, uk hip hop"
+3,5nGrROmK3QPYtrAL5wAjkM,Fumez The Engineer,Mazza L20 x Fumez The Engineer - Plugged In (Part 2),0.785,0.74,10,-6.411,0,0.318,0.0334,0,0.268,0.501,154.098,118339,4,"melodic drill, uk drill, uk hip hop, uk melodic rap"
+3,3QoEOJppmERW3SqQ2GRbBE,Lil S,He's Dead,0.778,0.59,11,-12.055,0,0.362,0.547,0,0.384,0.961,142.004,198577,4,

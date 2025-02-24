@@ -1,0 +1,51 @@
+prefer,track_id,artist,title,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,genre
+1,4WVJeRP6hjMMBkmWsV4TtF,ONE OK ROCK,Make It Out Alive,0.495,0.936,1,-2.477,0,0.0717,1.02e-05,0.000193,0.0909,0.398,137.047,209799,4,"j-pop, j-rock"
+1,2A4wfplwsIXUUD3UVirWDd,BABYMETAL,KARATE,0.381,0.982,7,-2.865,1,0.271,0.00071,0.172,0.36,0.23,179.924,263173,4,"idol rock, j-metal, kawaii metal"
+1,4TzGD5Pryq8DTjv5QRuJaW,Bad Omens,Nowhere To Go,0.419,0.957,7,-3.413,1,0.136,0.000774,0,0.175,0.457,174.094,246774,4,american metalcore
+1,5Uj6NgupVm7ByY1JXNYTp5,BAND-MAID,Choose me,0.477,0.932,2,-1.42,1,0.114,0.000603,0,0.238,0.292,89.987,218703,4,"idol rock, j-pixie, kawaii metal"
+1,6S2iHbyPSlhQgCyAVQ2SO6,Catch Your Breath,Shame On Me,0.383,0.906,4,-4.836,0,0.0848,0.000264,0.000278,0.203,0.183,174.008,201723,4,american metalcore
+1,7tBbT0mu8TOhDciTPRsOMq,Against The Current,silent stranger,0.435,0.933,7,-3.839,0,0.0756,0.0197,0.000163,0.331,0.334,76.003,209847,4,"neon pop punk, pixie, pop punk"
+1,0Qc7UYagLJkUM8xZ3b7gKJ,If Not For Me,Feel Me Now,0.281,0.961,3,-3.62,0,0.0945,0.00352,0.00309,0.16,0.546,109.909,230909,5,american metalcore
+1,0M3adYbGtyRHACP86dey1H,Bring Me The Horizon,Throne,0.426,0.888,0,-3.72,0,0.0987,0.000455,0,0.306,0.387,144.111,191520,4,"melodic metalcore, metalcore, modern rock, rock, uk metalcore"
+1,4Xe8ybuHb2CKiFc55bp8VZ,Of Mice & Men,Would You Still Be There,0.513,0.917,10,-3.612,1,0.0505,5.86e-05,7.1e-05,0.309,0.481,96.022,192507,4,"alternative metal, melodic metalcore, metalcore, pop punk, post-grunge"
+1,2F7E0EBbHsEqvwh7ulCfAv,Chrissy Costanza,If Looks Could Kill,0.489,0.776,5,-5.409,0,0.0922,0.00637,0.00094,0.125,0.39,167.799,188000,4,
+1,2FML7gk7ac6quGFIjvkDb3,Avenged Sevenfold,Dear God,0.472,0.772,5,-5.928,1,0.0316,0.00658,5.65e-05,0.132,0.6,139.993,393480,4,alternative metal
+1,19CCQeIOxxUDcpFw539zd7,Falling In Reverse,All My Life,0.591,0.92,5,-4.131,0,0.0769,0.000933,0,0.129,0.415,92.015,190231,4,"alternative metal, rap metal"
+1,4I5JsMUy4rCzkrymv15DbP,BABYMETAL,Time Wave,0.611,0.815,5,-4.642,0,0.0448,0.0724,0.015,0.0559,0.228,140.008,290088,4,"idol rock, j-metal, kawaii metal"
+1,45StxhLkQw9Q35UjKWprtM,coldrain,THE SIDE EFFECTS,0.509,0.881,5,-3.637,0,0.0558,1.91e-05,5.25e-05,0.0577,0.563,141.049,224931,4,"j-rock, japanese post-hardcore, metalcore"
+1,26P0PvxuRYcgzxeHZ4rjD0,BAND-MAID,DICE,0.388,0.994,6,-0.273,1,0.182,5.76e-05,2.2e-05,0.0985,0.379,179.989,242745,4,"idol rock, j-pixie, kawaii metal"
+1,1HU18lvcOphXiyKLkaMCSy,Bad Omens,Said & Done,0.517,0.918,9,-3.763,0,0.0955,0.0039,0,0.0847,0.334,134.977,204867,4,american metalcore
+1,3FI0iAAAjmR31xpZEwbdys,Spiritbox,Circle With Me,0.422,0.874,8,-4.606,0,0.0534,0.000166,0.231,0.143,0.392,102.743,233880,4,canadian metalcore
+1,7pugmRsHRy1fnug9NqH5cA,Halestorm,can u see me in the dark?,0.537,0.863,8,-5.678,1,0.105,0.00138,0.00405,0.167,0.281,123.099,238756,4,"alternative metal, nu metal, post-grunge"
+1,3GHtEaicELsTViK08EXEQQ,Bring Me The Horizon,medicine,0.615,0.858,0,-3.3,1,0.0396,0.00393,0,0.0789,0.323,97.038,227265,4,"melodic metalcore, metalcore, modern rock, rock, uk metalcore"
+1,7fudux10sVIxILOocZaHrW,Set It Off,Punching Bag,0.616,0.811,1,-4.964,0,0.057,0.00168,0,0.101,0.5,116.003,179483,4,"electropowerpop, otacore, pixie, pov: indie"
+1,39iRz0h1eZOyXzch8tKQit,CORPSE,CODE MISTAKE,0.452,0.967,0,-3.607,0,0.514,0.00108,0,0.203,0.313,145.231,165304,4,pov: indie
+1,27Nkg5NHILTJUcCyBkvVHt,I Prevail,Deep End,0.53,0.729,4,-6.393,1,0.0338,0.00275,9.02e-06,0.471,0.261,119.981,206142,4,"alternative metal, nu-metalcore, post-grunge"
+1,3ZdwCZtXWJjMqHlSFgYfIg,Falling In Reverse,Prequel,0.619,0.914,1,-5.651,1,0.26,0.0675,0,0.11,0.395,116.161,233793,4,"alternative metal, rap metal"
+1,73SsGfqjQv6oUxDaC9w8es,BABYMETAL,Monochrome,0.393,0.905,5,-4.382,0,0.0801,0.000633,0.000137,0.339,0.273,174.986,237354,4,"idol rock, j-metal, kawaii metal"
+1,7kX56S5T5acyvFmEWwDait,Awaken I Am,Roses,0.525,0.931,3,-3.304,0,0.0661,0.00238,1.34e-06,0.129,0.394,138.01,193309,4,post-screamo
+1,5CNopDW4B3IBlspdSmvjCh,Hollywood Undead,Hollywood Forever,0.643,0.73,1,-4.965,1,0.099,0.146,0,0.276,0.32,87.518,277714,4,"alternative metal, modern rock, post-grunge, rap metal, rap rock"
+1,4D3WFAXjpPEBnRpDMN6TF5,花冷え。,GIRL'S TALK,0.529,0.982,2,-3.509,1,0.445,0.00263,0,0.334,0.258,172.039,174767,4,"idol rock, japanese metalcore"
+1,1QsRvVhF616dVESCpU2IEJ,coldrain,Before I Go,0.456,0.953,9,-4.268,1,0.199,3.05e-05,0.000982,0.424,0.429,169.95,246613,4,"j-rock, japanese post-hardcore, metalcore"
+1,2gtmkmCRxmQFAr2xOPTdBo,Bad Omens,Careful What You Wish For,0.398,0.964,4,-3.738,0,0.175,0.0194,0,0.251,0.116,145.039,272800,4,american metalcore
+1,3lPn81PFyKvXiyHhlkwkQ4,Bring Me The Horizon,Doomed,0.271,0.903,6,-4.516,0,0.137,0.00152,1.5e-05,0.189,0.22,147.159,274133,4,"melodic metalcore, metalcore, modern rock, rock, uk metalcore"
+1,12mgWzCmMk1WsQyEctDj2e,Set It Off,Evil People,0.407,0.879,9,-4.844,0,0.235,0.000904,0,0.266,0.545,185.115,204051,4,"electropowerpop, otacore, pixie, pov: indie"
+1,5d0CEohvmvqcizfc0cXn1t,Wage War,Manic,0.472,0.872,2,-5.244,1,0.0987,0.00328,0.00254,0.212,0.328,180.053,164667,4,"melodic metalcore, metalcore"
+1,3Rho0TjpvbauID06XhM9aO,Until I Wake,Self Medicated,0.438,0.96,5,-3.482,0,0.0756,9.53e-05,0.00158,0.0943,0.254,144.98,189103,4,"american metalcore, metalcore"
+1,2mMNBgFRyEiRoGvrdoONeq,Ice Nine Kills,A Grave Mistake,0.36,0.925,6,-3.775,0,0.0719,0.000838,0,0.115,0.446,175.088,184227,3,metalcore
+1,0FpJdOwxVYjN0UCIG6ovcR,BABYMETAL,Brand New Day,0.653,0.891,4,-2.301,0,0.0339,0.00339,4.23e-06,0.327,0.232,105.007,248399,4,"idol rock, j-metal, kawaii metal"
+1,1EDPVGbyPKJPeGqATwXZvN,Linkin Park,The Emptiness Machine,0.466,0.872,7,-3.344,1,0.0336,0.0156,0,0.121,0.806,184.115,190428,4,"alternative metal, nu metal, post-grunge, rap metal, rock"
+1,6XnPopwCZ6odHVVqMsllL5,Within Temptation,The Reckoning,0.31,0.825,1,-4.53,1,0.0563,0.00356,0,0.641,0.475,89.885,251107,4,"dutch metal, gothic metal, gothic symphonic metal, symphonic metal"
+1,6PXYOVPBzO3xojFhQAvmde,Knocked Loose,Suffocate (feat. Poppy),0.244,0.985,1,-2.781,0,0.38,3.46e-05,0.0139,0.51,0.124,169.561,164696,4,"kentucky metal, kentucky punk"
+1,0n3sHHfdOq6Awix3JPe3xl,Halestorm,Bad Romance,0.545,0.927,1,-4.736,1,0.0706,0.0128,2.33e-06,0.367,0.682,124.061,248400,4,"alternative metal, nu metal, post-grunge"
+1,2Qv8xJzenocwXyGlMU5PaC,Bad Omens,ARTIFICIAL SUICIDE,0.562,0.897,9,-4.79,1,0.195,0.000251,0.000229,0.237,0.283,95.02,195000,4,american metalcore
+1,2yweNomxqnSStnsHWzFfLJ,Bring Me The Horizon,Ludens,0.391,0.696,1,-5.18,1,0.105,0.000633,0.00117,0.12,0.373,131.576,278507,4,"melodic metalcore, metalcore, modern rock, rock, uk metalcore"
+1,5WZPSMhtwBh6Fz1drpy8rB,Jutes,Obsessed,0.573,0.862,5,-3.529,1,0.0485,0.0021,0.533,0.434,0.56,99.932,162494,4,
+1,0CwiF8zPjl7ESC6nDnBvPo,Loveless,MIDDLE OF THE NIGHT,0.384,0.938,4,-6.323,0,0.124,0.000236,0,0.132,0.163,92.859,186129,3,pop punk
+1,1nxbn0COjeyH7MQZ27T3CR,Caskets,Glass Heart,0.412,0.958,6,-5.432,0,0.0997,0.000225,4.71e-05,0.119,0.341,164.072,224421,4,metalcore
+1,6FlCPO7Z0QGgwtIL8ocZzY,Red,Let It Burn,0.42,0.899,11,-5.446,0,0.0745,0.000431,0.000245,0.23,0.193,132.016,297827,4,"alternative metal, christian alternative rock, christian rock, post-grunge"
+1,6mLGPVBN2iGclVHegZww3D,BABYMETAL,GJ!,0.694,0.955,6,-3.818,1,0.106,0.000705,0.773,0.227,0.653,110.004,176600,4,"idol rock, j-metal, kawaii metal"
+1,5aeIj88MLdekYvObw5Yisk,Machine Head,Is There Anybody Out There?,0.408,0.953,7,-3.883,1,0.226,0.00532,0,0.338,0.291,177.94,272666,4,"alternative metal, groove metal, hard rock, industrial metal, melodic groove metal, metal, nu metal, progressive groove metal"
+1,32IBLKj7O4kRtXmBlPXqWo,The Warning,Sharks,0.625,0.848,5,-5.377,1,0.0569,0.00474,0.000249,0.617,0.525,100.045,188122,4,"mexican metal, monterrey indie"
+1,6R4NjnvN8gZFPlNFqGAVWT,Dal Av,Insanely Illegal Cage Fight,0.557,0.977,6,-2.72,0,0.18,0.0124,0,0.316,0.308,155.111,101129,4,thall
+1,1JkRR2HcXnUBCkVa8tFoAl,The Plot In You,Closure,0.506,0.891,7,-4.856,0,0.351,0.0241,4.37e-06,0.264,0.395,100.504,193553,4,metalcore

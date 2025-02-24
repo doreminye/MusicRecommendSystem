@@ -1,0 +1,51 @@
+prefer,track_id,artist,title,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,genre
+2,1VNvsvEsUpuUCbHpVop1vo,Frédéric Chopin,"Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",0.44,0.00925,3,-32.452,1,0.0468,0.984,0.936,0.0873,0.0908,129.129,273667,4,"classical, early romantic era, polish classical"
+2,3qMpUa5499FvA8OVFkJfzH,Frédéric Chopin,"Grande valse brillante in E-Flat Major, Op. 18",0.48,0.105,8,-24.064,1,0.0426,0.993,0.868,0.213,0.374,117.033,326240,4,"classical, early romantic era, polish classical"
+2,2MSgFefjK0T7Iwjvr3OKqV,Frédéric Chopin,"Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.",0.225,0.0047,1,-30.928,0,0.0509,0.992,0.881,0.0722,0.186,163.665,259493,4,"classical, early romantic era, polish classical"
+2,3OmYSGZmHCSaDrcowVe0fs,Streaming Music Studios,"Always with Me (From ""Spirited Away"") [Piano Version]",0.689,0.0837,5,-27.238,1,0.0572,0.993,0.892,0.099,0.459,115.395,235711,3,anime score
+2,0eTSQEblu8nrrmfeb8b5n9,MDP,Seesaw,0.662,0.21,5,-21.214,0,0.0709,0.679,0.936,0.113,0.0484,163.943,102438,4,korean instrumental
+2,3pmagP9nir4IF9MDc4LuWL,Yu-Peng Chen,Tender Strength,0.474,0.0596,2,-21.343,1,0.0357,0.982,0.928,0.185,0.135,72.65,82756,4,japanese vgm
+2,0vkyBVcGTbdOW5BJirBjKx,Hikaru Shirosu,"Waltz No. 1, Op. 6 ""Collapse""",0.537,0.0758,0,-26.395,0,0.043,0.993,0.9,0.225,0.412,154.438,157647,3,"anime score, japanese piano"
+2,1HjYunwHNWb8YPgG5HJjnj,Dramatic Violin,I Wanna Be Yours (Violin),0.324,0.537,11,-6.573,0,0.0298,0.771,0.305,0.245,0.217,134.9,121000,4,
+2,0zGfifFWGjwz2W49rcqDYO,Dennis Kuo,Solitary Mood,0.311,0.0456,7,-24.692,1,0.0853,0.991,0.931,0.114,0.665,165.186,100647,4,
+2,29nxiknfmsT4LYNKLM5Un9,MDP,Fake Love - Orchestral Version,0.505,0.327,2,-13.933,0,0.03,0.576,0.89,0.0781,0.29,156.039,242212,4,korean instrumental
+2,3uhGWxwYdkwzI9vHITtaza,Super Guitar Bros,Fairy Fountain,0.414,0.294,1,-15.648,0,0.043,0.966,0.789,0.0879,0.605,142.951,63432,4,vgm instrumental
+2,5FzAePCRLMHqBg4iY9ktOD,Hikaru Shirosu,Tea Picking - Piano Solo Version,0.59,0.0247,2,-27.456,1,0.0827,0.995,0.964,0.149,0.357,117.932,133000,4,"anime score, japanese piano"
+2,2pcqjh978FXjLnRcv22x2h,Dramatic Violin,Dandelions (Violin),0.3,0.485,11,-9.845,0,0.0371,0.334,0.0148,0.272,0.0966,116.914,208718,3,
+2,59EPbYaZgU4qrQy1OwwhKt,Million Eyes,The Mercy of the Wind,0.467,0.0539,0,-21.715,1,0.042,0.985,0.52,0.0947,0.272,66.445,105588,5,anime score
+2,7s2dWFnGSW2TyghkD6uvWb,Erikson Jayanto,Farewell,0.429,0.241,11,-14.294,0,0.0265,0.967,0.94,0.326,0.311,157.945,142405,3,
+2,1GyC68SGMLFMfSvgqsTqec,Yu-Peng Chen,Snow-Buried Tales,0.551,0.0774,3,-24.801,1,0.0311,0.988,0.288,0.139,0.191,133.416,91984,4,japanese vgm
+2,0J2lmSTQQWhTiglHDbhLWm,Hikaru Shirosu,"Waltz No. 1, Collapse",0.505,0.0239,9,-27.412,0,0.0445,0.994,0.956,0.123,0.193,155.588,156039,3,"anime score, japanese piano"
+2,6v2LEKA5m4Mvi1CNgb9tNA,Streaming Music Studios,"The Name of Life (From ""Spirited Away"") [Piano Version]",0.455,0.114,0,-22.112,1,0.0373,0.992,0.872,0.106,0.079,81.594,256500,4,anime score
+2,5x1bLqleRS0OlvT8N2dCCc,文武贝,幻昼 - 钢琴版,0.619,0.269,7,-13.359,0,0.0495,0.988,0.895,0.208,0.216,94.29,87484,4,
+2,2bh7CwpS8enLBMuk2p8pHG,달콤한꿈,꽃날 (황진이 OST),0.675,0.242,7,-14.783,1,0.049,0.986,0.92,0.0989,0.223,149.939,99888,3,
+2,1syWsWscOdvnDf9xe2Sjcl,Dramatic Violin,Attention (Violin),0.274,0.518,4,-7.629,0,0.0331,0.149,0.0674,0.34,0.168,100.6,218626,4,
+2,6HXPnLjDnlXiPRMcE0liej,Hikaru Shirosu,"Prelude No. 3, Final Stars",0.35,0.00411,0,-26.257,1,0.0611,0.995,0.561,0.0618,0.18,174.335,125000,3,"anime score, japanese piano"
+2,25zAW35Sv0VgQAWY1sSIEd,Streaming Music Studios,"The Path of the Wind (From ""My Neighbor Totoro"") [Piano Version]",0.591,0.0841,5,-26.359,0,0.0494,0.991,0.918,0.123,0.0583,79.954,199444,4,anime score
+2,5VuwAhMCz9EMg3RHL1KUEr,Ryuichi Sakamoto,Merry Christmas Mr. Lawrence,0.493,0.175,10,-18.049,0,0.036,0.949,0.777,0.112,0.278,106.903,286467,4,"compositional ambient, japanese classical, japanese contemporary classical, japanese soundtrack"
+2,1yqM5O07lL7R6UAdK5jvrR,Ben Crosland,Oceans Apart,0.396,0.0559,9,-20.707,0,0.0599,0.987,0.935,0.11,0.278,95.217,78413,1,background piano
+2,0JcINBOEZFMchzVInOdk1V,Penguin Piano,Drowning Love - Chasing Kou,0.298,0.229,1,-17.218,1,0.0375,0.965,0.935,0.131,0.398,79.828,113499,4,
+2,7N05mAG1X23Sd2PNOyoJSF,Hikaru Shirosu,Blue Stone of Atlas - Piano Solo Version,0.455,0.0038,10,-32.104,1,0.177,0.992,0.951,0.141,0.254,204.573,158000,4,"anime score, japanese piano"
+2,5iky6Ta2LGrrIxvlCG5K2k,Streaming Music Studios,"One Summer's Day (From ""Spirited Away"") [Piano Version]",0.615,0.0502,0,-26.815,1,0.054,0.994,0.899,0.101,0.138,146.415,229163,4,anime score
+2,5JIBnKFd0bF5p17bNBMpVL,Dennis Kuo,Neptune Interlude,0.343,0.0673,4,-22.665,0,0.0451,0.985,0.934,0.149,0.37,139.43,64000,4,
+2,1Xo9V6zzPisgbu4NP8NpLG,Lin Hai,無羈（器樂版）,0.457,0.243,4,-13.613,0,0.0263,0.618,0.283,0.0837,0.0657,84.009,151353,4,chinese soundtrack
+2,6kotBBNxJJ1sVnyBqF3J4a,Penguin Piano,Honeymoon Un Deux Trois - Piano Version,0.59,0.316,2,-14.334,0,0.0496,0.993,0.948,0.155,0.313,166.744,105000,3,
+2,17Avg1jSSasTET7Frh8MsO,Hikaru Shirosu,・・・・for Piano,0.31,0.0237,10,-28.909,1,0.0599,0.988,0.939,0.118,0.0624,69.491,146949,4,"anime score, japanese piano"
+2,7EDUTEVt6DPpgq4mKd6oC6,Yu-Peng Chen,Lone Sojourner,0.418,0.032,0,-29.998,0,0.0547,0.99,0.94,0.11,0.234,84.522,50139,4,japanese vgm
+2,1iv1JThcpZlvOIGhIJj99g,Million Eyes,There Will Be Rain,0.889,0.0849,4,-21.957,1,0.0762,0.974,0.725,0.0961,0.176,115.051,122216,3,anime score
+2,7nTrgV4osUk3b5ZKgKEWlu,Video Days,Bleached,0.42,0.18,2,-18.616,1,0.0579,0.995,0.933,0.0954,0.232,64.185,83250,4,corecore
+2,5nApBfmq9Ms6DXHidgFDlv,Dennis Kuo,I Wish This Moment Lasts Forever,0.533,0.128,3,-19.018,1,0.052,0.989,0.957,0.122,0.191,70.078,150605,4,
+2,1AxZdya49udSTKEhDV8VYp,Hikaru Shirosu,"Waltz No. 1 in B Minor, Collapse",0.483,0.0745,11,-24.502,0,0.04,0.994,0.917,0.133,0.385,168.357,144072,3,"anime score, japanese piano"
+2,7pcGcVUN9m12lfNuS3Xz8I,Austin Farwell,Once Upon a Time,0.346,0.0227,6,-25.447,1,0.0387,0.982,0.921,0.0976,0.0611,69.424,92592,5,ambient lo-fi
+2,0WMuH7EEhLJjGg8T1DQCNO,Karoly Botvay,"Sinfonia in E major, RV 132: III. Allegro",0.381,0.0699,4,-21.891,1,0.0453,0.929,0.873,0.0983,0.779,187.363,157107,3,hungarian classical performance
+2,1m5quxLLbU42bqjgo33Y9j,Invadable Harmony,Once Upon a Dream,0.305,0.0597,5,-15.385,1,0.0332,0.993,0.947,0.101,0.0357,62.342,60414,3,
+2,4qWy42EiVi5POUhhn8O8i1,Park Hye Ri,낯선 해,0.325,0.208,5,-10.885,0,0.0374,0.954,0.00537,0.148,0.132,86.642,218334,4,korean soundtrack
+2,52dlLkZWeVOGKZzCr78l0F,Hikaru Shirosu,Stories of a Figure Skater - Day Off,0.476,0.0226,6,-26.213,1,0.0529,0.985,0.949,0.0981,0.25,171.675,187636,4,"anime score, japanese piano"
+2,5lEiWMwoKtMGTyjIRQ8Xo3,Austin Farwell,City Lights,0.268,0.0416,3,-25.963,1,0.047,0.982,0.943,0.105,0.242,68.647,121857,5,ambient lo-fi
+2,3jB3vzH1WG6aiUiiLLGvly,Ichiko Aoba,Parfum d'étoiles,0.435,0.0685,9,-25.122,1,0.0432,0.944,0.948,0.163,0.191,116.085,172736,5,j-acoustic
+2,3iOclnrTkgFRwmvP4wCOJH,Dennis Kuo,Lost in a Forest of Dreams - Piano Version,0.516,0.179,10,-20.943,1,0.0469,0.991,0.941,0.114,0.267,70.424,132814,4,
+2,0bpuJswbM5oyHa9jwEEaJk,Nam Hye Seung,The Song for My Brother,0.403,0.255,7,-12.631,1,0.0487,0.982,0.933,0.0963,0.1,76.343,261707,3,korean ost
+2,5jKkDkToVf7cpEicn2vmjo,Shin Giwon Piano,Can You See My Heart,0.509,0.0759,10,-18.031,1,0.0809,0.994,0.917,0.121,0.228,65.011,237231,4,korean instrumental
+2,66pWxtaxTV8CxcGOvivZeT,Joel Sunny,Luminary,0.401,0.592,6,-8.897,0,0.0383,0.238,0.0453,0.195,0.379,134.968,189000,4,pop violin
+2,1YFA2vnDRM6NtZlh0U3kRq,Dramatic Violin,Fairytale (Violin),0.0781,0.623,2,-4.203,0,0.0359,0.518,0.654,0.103,0.203,185.567,158311,4,
+2,5hkPl1j3RwsjuLdALRjQgN,Dennis Kuo,Echoes of a Seashell,0.48,0.0143,1,-26.082,1,0.0435,0.99,0.933,0.106,0.226,68.477,141154,3,
